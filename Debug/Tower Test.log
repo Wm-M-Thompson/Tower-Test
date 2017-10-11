@@ -1,0 +1,5 @@
+﻿  TowerTest.cpp
+c:\users\bill\documents\visual studio 2017\projects\tower test - wills tower\tower test\towertest.cpp(218): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bill\documents\visual studio 2017\projects\tower test - wills tower\tower test\towertest.cpp(219): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Tower Test.vcxproj -> C:\Users\Bill\Documents\Visual Studio 2017\Projects\Tower Test - Wills Tower\Debug\Tower Test.exe
+  Tower Test.vcxproj -> C:\Users\Bill\Documents\Visual Studio 2017\Projects\Tower Test - Wills Tower\Debug\Tower Test.pdb (Partial PDB)
